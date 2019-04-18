@@ -17,10 +17,10 @@ present order: to be determined
 
 *Directory tree*:
 root
-|-> data/ 分小组的观察结果与中间文档
-      |->EASE/
-      |->EMSE/
-      |->ESEM/
-|-> hw1/ 第一次作业文档内容
-|-> schedule.md 各次作业时间安排
-|-> commit.sh 提交脚本，--help查看帮助
+|-> data/ 分小组的观察结果与中间文档<br>
+&emsp;|->EASE/<br>
+&emsp;|->EMSE/<br>
+&emsp;|->ESEM/<br>
+|-> hw1/ 第一次作业文档内容<br>
+|-> schedule.md 各次作业时间安排<br>
+|-> commit.sh 提交脚本，--help查看帮助<br>
